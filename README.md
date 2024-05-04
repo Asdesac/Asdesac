@@ -1,6 +1,6 @@
 # I'm Asdesach Asafaw   Software engineener
 
-## 🤹🏿‍♀️Full-Stack Developer js| React | Node.js | MongoDB|mysql|postgress|
+## 🤹🏿‍♀️Full-Stack Developer js| React | Node.js | MongoDB|mysql|postgress|boostrap
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer with a focus on building scalable and user-friendly web applications. 
 I have expertise in React, Node.js, MongoDB, and various other technologies. 

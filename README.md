@@ -40,7 +40,7 @@ Feel free to explore more of my projects on my [GitHub repositories](link-to-git
 ## Contact Me
 
 I'm currently open to job opportunities and collaborative projects. 
-If you'd like to get in touch, feel free to reach out to me via email at [your-email@example.com](mailto:your-email@example.com) or
+If you'd like to get in touch, feel free to reach out to me via email at asdesachhappy@gmail.com/asdesasch875@gmail.com or
 connect with me on [LinkedIn](your-linkedin-profile).
 
 I'm excited about the possibility of working with talented individuals and bringing impactful projects to life. 

@@ -8,6 +8,7 @@ I'm actively seeking new opportunities and I'm excited to collaborate with like-
 
 ## Skills
 
+- **Mernstack developer**: both backend and frontend.
 - **Front-end Development**: I have a strong command of React.js and JavaScript, allowing me to create dynamic and interactive user interfaces.
 -  I'm proficient in HTML5, CSS3, and modern front-end frameworks like Bootstrap and Material UI.
 
